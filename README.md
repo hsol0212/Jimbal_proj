@@ -59,5 +59,3 @@ Protocol & Tech: SPI, UART, DMA (Direct Memory Access), Ping-Pong Buffer
 
 
 
-
-
